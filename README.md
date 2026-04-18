@@ -10,6 +10,7 @@ Lo que estoy construyendo: Actualmente desarrollo scripts para optimizar el env�
 
 
 🇺🇸 English Version
+
 Hi! I'm Julieta. 👋
 I am an evolving Social Media Manager exploring the intersection of digital marketing and technology.
 
